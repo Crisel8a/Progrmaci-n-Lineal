@@ -1,2 +1,2 @@
 # Progrmacion-Lineal
-Programación lineal, método simplex, método gráfico.
+Método simplex y método gráfico.
